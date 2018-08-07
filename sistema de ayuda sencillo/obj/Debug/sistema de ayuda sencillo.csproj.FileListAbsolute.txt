@@ -1,0 +1,5 @@
+C:\Users\Mauricio M\Downloads\sistema de ayuda sencillo\sistema de ayuda sencillo\bin\Debug\sistema de ayuda sencillo.exe.config
+C:\Users\Mauricio M\Downloads\sistema de ayuda sencillo\sistema de ayuda sencillo\bin\Debug\sistema de ayuda sencillo.exe
+C:\Users\Mauricio M\Downloads\sistema de ayuda sencillo\sistema de ayuda sencillo\bin\Debug\sistema de ayuda sencillo.pdb
+C:\Users\Mauricio M\Downloads\sistema de ayuda sencillo\sistema de ayuda sencillo\obj\Debug\sistema de ayuda sencillo.exe
+C:\Users\Mauricio M\Downloads\sistema de ayuda sencillo\sistema de ayuda sencillo\obj\Debug\sistema de ayuda sencillo.pdb
